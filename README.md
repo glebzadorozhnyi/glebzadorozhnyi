@@ -1,5 +1,9 @@
-### Hi there 👋
+### Привет 👋 Меня зовут Глеб
+🔭 Занимаюсь изучением python в области машинного зрения и аналитики данных
 
+Стек ⭐Pycharm⭐Git⭐PyTorch⭐Docker⭐OpenCV⭐pandas
+
+📫@protiv_solntsa - telegram
 <!--
 **glebzadorozhnyi/glebzadorozhnyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
